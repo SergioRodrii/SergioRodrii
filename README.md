@@ -27,10 +27,6 @@
   </a>
 </p>
 <br><br>
-<br>
-<br><br><br>
-<br><br>
-
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
