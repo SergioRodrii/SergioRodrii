@@ -26,7 +26,6 @@
     <img src="https://skillicons.dev/icons?i=java,py,spring,html,css,mysql,vscode,idea,docker,postman,git,github,bash,linux,windows,&perline=5" />
   </a>
 </p>
-<br><br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
