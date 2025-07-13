@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋 soy Sergio Rodriguez Castro / SergioRodrii ✨</h1>
+<h1 align="center">Hola 👋 soy Sergio Rodriguez Castro / SergioRodrii 🚀</h1>
 
 <br>
 
-## Sobre mí 😃
+## Sobre mí 👦
 
 <p align="left">
   🎓 Soy estudiante de Ingeniería de Sistemas con una sólida base en desarrollo de software y un fuerte interés en la ciberseguridad.<br><br>
@@ -16,7 +16,7 @@
 
 <br>
 
-## Tecnologías conocidas 👨🏻‍💻
+## Tecnologías conocidas 🎓
 
 <p align="center">
   <a href="https://skillicons.dev">
