@@ -21,15 +21,11 @@
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,spring,html,css,mysql,vscode,idea,docker,postman,git,github,bash,linux,windows,&perline=12" />
   </a>
 </p>
-<br>
-<!-------------------------->
-
-<br>
 <br><br>
 <br>
 <br><br><br>
