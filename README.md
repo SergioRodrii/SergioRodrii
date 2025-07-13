@@ -10,8 +10,8 @@
   🔐 Completé el Certificado Profesional de Ciberseguridad de Google y cursos complementarios como NDG Linux Essentials (Cisco).<br><br>
   🚀 Me apasiona el desarrollo backend, los retos técnicos, y seguir creciendo como profesional en tecnología.<br><br>
   📫 Contacto: <strong>serocastro@gmail.com</strong><br>
-  🔗 LinkedIn: [linkedin.com/in/SergioRodrii](https://linkedin.com/in/SergioRodrii)<br>
-  📂 Certificados: [Ver en Google Drive](https://drive.google.com/drive/folders/1zeQVAlrNXAykHmzMdR9aX_1AJ1-CVi8R?usp=sharing)
+  🔗 LinkedIn: https://linkedin.com/in/SergioRodrii<br>
+  📂 Certificados: https://drive.google.com/drive/folders/1zeQVAlrNXAykHmzMdR9aX_1AJ1-CVi8R?usp=sharing
 </p>
 
 <br>
