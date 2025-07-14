@@ -5,7 +5,7 @@
 ## Sobre mí 👦
 
 <p align="left">
-  🎓 Soy estudiante de Ingeniería de Sistemas con una base en desarrollo de software e interés en la ciberseguridad.<br><br>
+  🎓 Soy estudiante de Ingeniería de Sistemas con bases en desarrollo de software e interés en la ciberseguridad.<br><br>
   💻 Conocimientos en Java, Python, desarrollo web con HTML y CSS. Familiaridad con Spring Framework para desarrollo de API REST. Manejo de bases de datos como MySQL, MariaDB y SQL Server, y herramientas como Git, Docker, Postman, VS Code e IntelliJ IDEA. Trabajo en           entornos Linux y Windows, usando shells como Bash y Zsh.<br><br>
   🔐 Completé el Certificado Profesional de Ciberseguridad de Google y cursos complementarios como NDG Linux Essentials (Cisco).<br><br>
   🚀 Me apasiona el desarrollo backend, los retos técnicos, y seguir creciendo como profesional en tecnología.<br><br>
