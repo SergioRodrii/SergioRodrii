@@ -6,7 +6,7 @@
 
 <p align="left">
   🎓 Soy estudiante de Ingeniería de Sistemas con una sólida base en desarrollo de software y un fuerte interés en la ciberseguridad.<br><br>
-  💻 Manejo tecnologías como Java, Spring Framework, SQL, Git, Docker y Linux. Me gusta trabajar con código limpio, bien estructurado y siempre estoy buscando mejorar.<br><br>
+  💻 Conocimientos en Java, Python, desarrollo web con HTML y CSS. Familiaridad con Spring Framework para desarrollo de API REST. Manejo de bases de datos como MySQL, MariaDB y SQL Server, y herramientas como Git, Docker, Postman, VS Code e IntelliJ IDEA. Trabajo en           entornos Linux y Windows, usando shells como Bash y Zsh.<br><br>
   🔐 Completé el Certificado Profesional de Ciberseguridad de Google y cursos complementarios como NDG Linux Essentials (Cisco).<br><br>
   🚀 Me apasiona el desarrollo backend, los retos técnicos, y seguir creciendo como profesional en tecnología.<br><br>
   📫 Contacto: <strong>serocastro@gmail.com</strong><br>
